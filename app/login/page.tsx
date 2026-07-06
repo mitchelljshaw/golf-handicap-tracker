@@ -17,7 +17,7 @@ export default async function LoginPage({ // Login Page
             Des Golf Tracker
           </h1>
           <p className="mt-1 text-sm text-pencil">
-            My digital scorecard for golf. SIgn in or create an account to get started!
+            My digital scorecard for golf!
           </p>
         </div>
 
