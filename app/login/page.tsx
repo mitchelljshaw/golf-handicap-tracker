@@ -61,7 +61,7 @@ export default async function LoginPage({ // Login Page
         </div>
 
         <p className="mt-4 text-center text-xs text-pencil">
-          New accounts need a Supabase project connected — see the README.
+          Make an account without verification for now. WIP. 
         </p>
       </div>
     </main>
