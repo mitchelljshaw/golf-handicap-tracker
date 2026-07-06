@@ -14,10 +14,10 @@ export default async function LoginPage({ // Login Page
       <div className="w-full max-w-sm">
         <div className="mb-8 text-center">
           <h1 className="font-[family-name:var(--font-display)] text-3xl text-fairway">
-            Scratch Log
+            Des Golf Tracker
           </h1>
           <p className="mt-1 text-sm text-pencil">
-            Your rounds, your Handicap Index, done properly.
+            My digital scorecard for golf. SIgn in or create an account to get started!
           </p>
         </div>
 

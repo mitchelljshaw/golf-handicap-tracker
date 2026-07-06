@@ -16,7 +16,7 @@ export default async function CoursesPage() {
           <div>
             <h1 className="font-[family-name:var(--font-display)] text-2xl text-ink">Courses</h1>
             <p className="text-sm text-pencil">
-              Shared across everyone signed in — add a course once and any golfer can log a
+              Shared across everyone signed in. Add a course once and any golfer can log a
               round on it.
             </p>
           </div>
