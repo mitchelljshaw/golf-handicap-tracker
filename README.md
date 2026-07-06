@@ -1,10 +1,10 @@
 # Golf Handicap Tracker
 
-A full-stack golf app for logging rounds, tracking scores, and calculating a golfer’s Handicap Index.
+A full-stack golf app for logging rounds, tracking scores, and calculating a handicap.
 
-The app calculates the World Handicap System used by Golf Australia, including Score Differentials, Course Handicap, Net Double Bogey adjustments, and which rounds count toward your current Handicap Index.
+Designed to be real golfer’s digital scorecard, structured round history, course data, and clear score adjustments.
 
-It is designed like a real golfer’s digital scorecard, replacing rough handicap guesses with structured round history, course data, and clear score adjustments.
+LIVE🔴: https://golf-handicap-tracker-mu.vercel.app/
 
 ## Features
 
